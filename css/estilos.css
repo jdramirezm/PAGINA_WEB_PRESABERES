@@ -1,0 +1,30 @@
+h1{
+    color: blue ;
+}
+table{
+    width: max-content;
+}
+table, th, td{
+    border: 1px solid black;
+    border-collapse:collapse;
+}
+th{
+    text-align: left;
+}
+.fondo1lineaTabla1{
+    background-color:navajowhite;
+}
+
+h3{
+    color:indigo;
+}
+.fondo1lineaTabla2{
+    background-color:rgb(228, 174, 109);
+}
+.fondotitulotabla1{
+    background-color:aquamarine;
+}
+
+.fondotitulotabla2{
+    background-color: greenyellow;
+}
